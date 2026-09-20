@@ -1,0 +1,8 @@
+{
+  "name": "Prince Dhakad",
+  "description": "Portfolio landing page for Graphic Designer Prince Dhakad specializing in YouTube thumbnails, social media creatives, and digital design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
